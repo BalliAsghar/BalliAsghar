@@ -1,8 +1,10 @@
-### Hi there 👋
+<h3 align="center">
+Hello there!👋 I'm Asghar
+</h3>
 
-- 🔭 I’m currently working on a [Mailsy](https://github.com/BalliAsghar/Mailsy)
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
-- 📫 How to reach me: [Email](mailto:m.asghar99@outlook.com)
+<h3 align="center">
+I'm a Junior Full Stack Developer, recently 🎓graduated from <a target="_blank" href="https://northcoders.com" rel="noreferrer">Northcoders</a> Coding Bootchamp, and I'm looking for a first role in the tech industry.
+</h3>
 
 ![Asghar's GitHub stats](https://github-readme-stats.vercel.app/api?username=balliasghar&show_icons=true&theme=radical&count_private=true&theme=default)
 
