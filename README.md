@@ -3,7 +3,7 @@ Hello there!👋 I'm Asghar
 </h3>
 
 <h3 align="center">
-I'm a Junior Full Stack Developer, recently 🎓graduated from <a target="_blank" href="https://northcoders.com" rel="noreferrer">Northcoders</a> Coding bootcamp, and I'm looking for a first role in the tech industry.
+I'm a Junior Full Stack Developer, recently 🎓 graduated from <a target="_blank" href="https://northcoders.com" rel="noreferrer">Northcoders</a> Coding bootcamp, and I'm looking for a first role in the tech industry.
 </h3>
 
 ![Asghar's GitHub stats](https://github-readme-stats.vercel.app/api?username=balliasghar&show_icons=true&theme=radical&count_private=true&theme=default)
