@@ -6,9 +6,11 @@ Hello there!👋 I'm Asghar
 I'm a Junior Full Stack Developer, recently 🎓 graduated from <a target="_blank" href="https://northcoders.com" rel="noreferrer">Northcoders</a> Coding bootcamp, and I'm looking for a first role in the tech industry.
 </h3>
 
-![Asghar's GitHub stats](https://github-readme-stats.vercel.app/api?username=balliasghar&show_icons=true&theme=radical&count_private=true&theme=default)
+<a href="http://www.github.com/BalliAsghar"><img src="https://github-readme-stats.vercel.app/api?username=BalliAsghar&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="BalliAsghar's GitHub stats" /></a>
 
-<a href="https://github.com/BalliAsghar" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BalliAsghar&layout=compact&langs_count=8&theme=default" alt="Top Langs" /></a>
+<a href="http://www.github.com/BalliAsghar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BalliAsghar&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+
+<a href="http://www.github.com/BalliAsghar"><img src="https://activity-graph.herokuapp.com/graph?username=BalliAsghar&bg_color=ffffff&color=000000&line=ec4899&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 </p>
 
