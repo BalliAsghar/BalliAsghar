@@ -6,6 +6,7 @@ Hello there!👋 I'm Asghar
 I'm a Junior Full Stack Developer, recently 🎓 graduated from <a target="_blank" href="https://northcoders.com" rel="noreferrer">Northcoders</a> Coding bootcamp, and I'm looking for a first role in the tech industry.
 </h3>
 
+</p align="center">
 <a href="http://www.github.com/BalliAsghar"><img src="https://github-readme-stats.vercel.app/api?username=BalliAsghar&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="BalliAsghar's GitHub stats" /></a>
 
 <a href="http://www.github.com/BalliAsghar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BalliAsghar&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
