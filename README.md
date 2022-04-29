@@ -10,8 +10,6 @@ I'm a Junior Full Stack Developer, recently 🎓 graduated from <a target="_blan
 
 <a href="http://www.github.com/BalliAsghar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BalliAsghar&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/BalliAsghar"><img src="https://activity-graph.herokuapp.com/graph?username=BalliAsghar&bg_color=ffffff&color=000000&line=ec4899&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 </p>
 
 ## Skills
