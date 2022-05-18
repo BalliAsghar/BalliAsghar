@@ -17,7 +17,7 @@ I'm a Junior Full Stack Developer, recently 🎓 graduated from <a target="_blan
 
 
 <a href="https://github.com/BalliAsghar/mailsy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BalliAsghar&repo=masilsy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BalliAsghar&repo=mailsy" />
 </a>
 
 <br />
