@@ -15,10 +15,17 @@ I'm a Junior Full Stack Developer, recently 🎓 graduated from <a target="_blan
 <br />
 <br />
 
+#### Top Repositories
+
 
 <a href="https://github.com/BalliAsghar/mailsy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BalliAsghar&repo=mailsy" />
 </a>
+
+<a href="https://github.com/BalliAsghar/mailsy-alfred">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BalliAsghar&repo=mailsy-alfred" />
+</a>
+
 
 <br />
 <br />
