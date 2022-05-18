@@ -9,7 +9,6 @@ I'm a Junior Full Stack Developer, recently 🎓 graduated from <a target="_blan
 </p align="center">
 <a href="http://www.github.com/BalliAsghar"><img src="https://github-readme-stats.vercel.app/api?username=BalliAsghar&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="BalliAsghar's GitHub stats" /></a>
 </p>
-<br />
 
 #### Top Repositories
 
