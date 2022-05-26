@@ -20,6 +20,10 @@ Hello there!👋 I'm Asghar
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BalliAsghar&repo=RepairX" />
 </a>
 
+<a href="https://github.com/BalliAsghar/Parkify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BalliAsghar&repo=Parkify" />
+</a>
+
 <br />
 <br />
 
