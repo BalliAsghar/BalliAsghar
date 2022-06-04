@@ -40,8 +40,8 @@ A Junior Software Developer & Technology enthusiast.
 
 ## Top Repositories
 
-<img src="./images/Mailsy.png" alt="Mailsy" height=200 />
-<img src="./images/Repairx.png" alt="Mailsy" height=200 />
+<img src="/images/Mailsy.png" alt="Mailsy" height=200 />
+<img src="/images/Repairx.png" alt="Mailsy" height=200 />
 
 ## My Github Status 🦸
 
