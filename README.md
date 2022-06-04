@@ -40,8 +40,8 @@ A Junior Software Developer & Technology enthusiast.
 
 ## Top Repositories
 
-<img src="/images/Mailsy.png" alt="Mailsy" height=200 />
-<img src="/images/Repairx.png" alt="Mailsy" height=200 />
+<img src="https://raw.githubusercontent.com/BalliAsghar/BalliAsghar/main/Images/Mailsy.png" alt="Mailsy" height=200 />
+<img src="https://github.com/BalliAsghar/BalliAsghar/blob/main/Images/Repairx.png?raw=true" alt="Repairx" height=200 />
 
 ## My Github Status 🦸
 
