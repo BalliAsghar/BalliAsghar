@@ -1,50 +1,48 @@
-<h3 align="center">
-Hello there!👋 I'm Asghar
-</h3>
+# Hello, I am Asghar 👋
 
-</p align="center">
-<a href="http://www.github.com/BalliAsghar"><img src="https://github-readme-stats.vercel.app/api?username=BalliAsghar&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="BalliAsghar's GitHub stats" /></a>
-</p>
+A Junior Software Developer & Technology enthusiast.
 
-#### Top Repositories
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
+- 📫 How to reach me: [Email](mailto:m.asghar99@outlook.com)
 
-<a href="https://github.com/BalliAsghar/mailsy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BalliAsghar&repo=mailsy" />
-</a>
+## My skills 🚀
 
-<a href="https://github.com/BalliAsghar/mailsy-alfred">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BalliAsghar&repo=mailsy-alfred" />
-</a>
+### Programming Languages
 
-<a href="https://github.com/BalliAsghar/RepairX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BalliAsghar&repo=RepairX" />
-</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/rust-9B0D2F?style=for-the-badge&logo=rust&logoColor=black)
 
-<a href="https://github.com/BalliAsghar/Parkify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BalliAsghar&repo=Parkify" />
-</a>
+### Frontend Development
 
-<br />
-<br />
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-## Skills
+### Backend Development
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
-![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
-![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
-![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
-![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![](https://img.shields.io/badge/Mongoose-00C58E?style=for-the-badge)
+![](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![JSON Web Tokens](https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&color=000000&logo=JSON+Web+Tokens&logoColor=FFFFFF&label=)
-![Nodemon](https://img.shields.io/static/v1?style=for-the-badge&message=Nodemon&color=222222&logo=Nodemon&logoColor=76D04B&label=)
-![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![React Router](https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=)
-![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
-![Lodash](https://img.shields.io/static/v1?style=for-the-badge&message=Lodash&color=3492FF&logo=Lodash&logoColor=FFFFFF&label=)
 
-![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+### Tools & Technologies
+
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+## Top Repositories
+
+<img src="./images/Mailsy.png" alt="Mailsy" height=200 />
+<img src="./images/Repairx.png" alt="Mailsy" height=200 />
+
+## My Github Status 🦸
+
+![](https://github-readme-stats.vercel.app/api?username=BalliAsghar&show_icons=true&bg_color=282a36&title_color=44b561&text_color=edeeea)
