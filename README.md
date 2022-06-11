@@ -40,7 +40,9 @@ A Junior Software Developer & Technology enthusiast.
 
 ## Tools I Created
 
-![https://github.com/BalliAsghar/Mailsy](https://raw.githubusercontent.com/BalliAsghar/BalliAsghar/main/Images/Mailsy.png)
+- [Mailsy](https://github.com/balliasghar/mailsy) is a command-line application that allows you to generate disposable email Accounts.<br />
+  Also Available on [Alfred](https://github.com/BalliAsghar/mailsy-alfred) and [Raycast](https://github.com/BalliAsghar/mailsy-raycast)
+- [IMessage-Find 2FA Codes](https://github.com/BalliAsghar/find-2fa-codes) is a [Raycast](https://www.raycast.com/) extension that allows you to find 2FA codes in your IMessage.
 
 ## My Github Status 🦸
 
