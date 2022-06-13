@@ -46,8 +46,8 @@ A Junior Software Developer & Technology enthusiast.
 
 ## Projects
 
-- [RepairX![image](https://user-images.githubusercontent.com/14165223/173259499-f190b81b-9852-42ab-9c5d-c15481612a4f.png)
-]()
+- [RepairX](https://github.com/balliasghar/RepairX) is an app that helps repair shops manage their repair Jobs. built using NodeJS and ReactJS.
+- [Parkify ](https://github.com/balliasghar/Parkify) is social meet-up mobile app with a live chat feature, built using React Native and NodeJS.
 
 ## My Github Status 🦸
 
