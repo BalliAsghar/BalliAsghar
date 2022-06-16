@@ -44,6 +44,11 @@ A Junior Software Developer & Technology enthusiast.
   Also Available on [Alfred](https://github.com/BalliAsghar/mailsy-alfred) and [Raycast](https://github.com/BalliAsghar/mailsy-raycast)
 - [IMessage-Find 2FA Codes](https://github.com/BalliAsghar/find-2fa-codes) is a [Raycast](https://www.raycast.com/) extension that allows you to find 2FA codes in your IMessage.
 
+## Projects
+
+- [RepairX](https://github.com/balliasghar/RepairX) is an app that helps repair shops manage their repair Jobs. built using NodeJS and ReactJS.
+- [Parkify](https://github.com/balliasghar/Parkify) is social meet-up mobile app with a live chat feature, built using React Native and NodeJS.
+- [GitHub Finder](https://github.com/BalliAsghar/GitHubFinder) is a simple app that allows users to search for GitHub users and view their profile information.
 ## My Github Status 🦸
 
 ![](https://github-readme-stats.vercel.app/api?username=BalliAsghar&show_icons=true&bg_color=282a36&title_color=44b561&text_color=edeeea)
