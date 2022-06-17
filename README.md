@@ -2,7 +2,7 @@
 
 A Junior Software Developer & Technology enthusiast.
 
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
+- 🌱 I’m currently learning [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/).
 - 📫 How to reach me: [Email](mailto:m.asghar99@outlook.com)
 
 ## My skills 🚀
@@ -49,6 +49,7 @@ A Junior Software Developer & Technology enthusiast.
 - [RepairX](https://github.com/balliasghar/RepairX) is an app that helps repair shops manage their repair Jobs. built using NodeJS and ReactJS.
 - [Parkify](https://github.com/balliasghar/Parkify) is social meet-up mobile app with a live chat feature, built using React Native and NodeJS.
 - [GitHub Finder](https://github.com/BalliAsghar/GitHubFinder) is a simple app that allows users to search for GitHub users and view their profile information.
+
 ## My Github Status 🦸
 
 ![](https://github-readme-stats.vercel.app/api?username=BalliAsghar&show_icons=true&bg_color=282a36&title_color=44b561&text_color=edeeea)
