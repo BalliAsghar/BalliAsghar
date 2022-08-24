@@ -54,3 +54,5 @@ A Junior Software Developer & Technology enthusiast.
 - [GitHub Finder](https://github.com/BalliAsghar/GitHubFinder) is a simple app that allows users to search for GitHub users and view their profile information.
 
 ## My Github Status 🦸
+
+![](https://github-readme-stats.vercel.app/api?username=BalliAsghar&show_icons=true&bg_color=282a36&title_color=44b561&text_color=edeeea)
