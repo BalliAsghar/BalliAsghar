@@ -1,6 +1,6 @@
 # Hello, I am Asghar 👋
 
-A Junior Software Developer & Technology enthusiast.
+A Software Developer & Technology enthusiast.
 
 - 🌱 I’m currently learning [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/).
 - 📫 How to reach me: [Email](mailto:m.asghar99@outlook.com)
