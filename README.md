@@ -48,6 +48,7 @@ A Software Developer & Technology enthusiast.
 - [Mailsy](https://github.com/balliasghar/mailsy) is a command-line application that allows you to generate disposable email Accounts.<br />
   Also Available on [Alfred](https://github.com/BalliAsghar/mailsy-alfred) and [Raycast](https://github.com/BalliAsghar/mailsy-raycast)
 - [IMessage-Find 2FA Codes](https://github.com/BalliAsghar/find-2fa-codes) is a [Raycast](https://www.raycast.com/) extension that allows you to find 2FA codes in your IMessage.
+- The [Google Photos](https://github.com/BalliAsghar/google-photos) extension for Raycast enables users to access, view, download, and upload media to their Google Photos account.
 
 ## Projects
 
