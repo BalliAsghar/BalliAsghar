@@ -49,6 +49,7 @@ A Software Developer & Technology enthusiast.
   Also Available on [Alfred](https://github.com/BalliAsghar/mailsy-alfred) and [Raycast](https://github.com/BalliAsghar/mailsy-raycast)
 - [IMessage-Find 2FA Codes](https://github.com/BalliAsghar/find-2fa-codes) is a [Raycast](https://www.raycast.com/) extension that allows you to find 2FA codes in your IMessage.
 - The [Google Photos](https://github.com/BalliAsghar/google-photos) extension for Raycast enables users to access, view, download, and upload media to their Google Photos account.
+- [KillPort](https://github.com/BalliAsghar/killport) is a command-line tool that allows you to kill a process running on a specified port on your local machine.
 
 ## Projects
 
