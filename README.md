@@ -2,9 +2,6 @@
 
 A Software Developer & Technology enthusiast.
 
-<!-- - 🌱 I’m currently learning [CI/CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd) -->
-- 📫 How to reach me: [Email](mailto:m.asghar99@outlook.com)
-
 ## My skills 🚀
 
 ### Programming Languages
