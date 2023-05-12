@@ -32,6 +32,7 @@ A Software Developer & Technology enthusiast.
 - The [Google Photos](https://github.com/BalliAsghar/google-photos) extension for Raycast enables users to access, view, download, and upload media to their Google Photos account.
 - [KillPort](https://github.com/BalliAsghar/killport) is a command-line tool that allows you to kill a process running on a specified port on your local machine.
 - [ImgUp](https://github.com/BalliAsghar/imgup) is a CLI tool to upload images to imgur, written in go.
+- [partial-clone](https://github.com/BalliAsghar/partial-clone) A Bash script for partial cloning of Git repositories, with user-friendly features.
 
 ## Projects
 
