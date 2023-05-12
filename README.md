@@ -22,7 +22,7 @@ A Software Developer & Technology enthusiast.
 
 ### Tools & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,postman,neovim,nginx)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,postman,neovim,nginx,linux)]()
 
 ## Tools I Created
 
