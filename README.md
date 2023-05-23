@@ -33,6 +33,7 @@ A Software Developer & Technology enthusiast.
 - [KillPort](https://github.com/BalliAsghar/killport) is a command-line tool that allows you to kill a process running on a specified port on your local machine.
 - [ImgUp](https://github.com/BalliAsghar/imgup) is a CLI tool to upload images to imgur, written in go.
 - [partial-clone](https://github.com/BalliAsghar/partial-clone) A Bash script for partial cloning of Git repositories, with user-friendly features.
+- [PlexURLGen](https://github.com/BalliAsghar/PlexURLGen) is a Python script designed to rapidly generate direct links for Plex media.
 
 ## Projects
 
