@@ -2,7 +2,7 @@
 
 A Software Developer & Technology enthusiast.
 
-## Tech Stack
+## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongo,postgres,redis,bash,git,githubactions,docker,kubernetes,aws,heroku,postman,neovim,nginx,go,linux&perline=6)]()
 
