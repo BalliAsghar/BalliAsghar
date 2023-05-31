@@ -2,27 +2,9 @@
 
 A Software Developer & Technology enthusiast.
 
-## My skills 🚀
+## Tech Stack
 
-### Programming Languages
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,bash)]()
-
-### Frontend
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,redux,tailwind&perline=5)]()
-
-### Backend
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,postgres,redis)]()
-
-### DevOps
-
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,heroku,githubactions)]()
-
-### Tools & Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,postman,neovim,nginx,linux)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongo,postgres,redis,bash,git,githubactions,docker,kubernetes,aws,heroku,postman,neovim,nginx,go,linux&perline=6)]()
 
 ## Tools I Created
 
