@@ -13,7 +13,6 @@ A Software Developer & Technology enthusiast.
 - [IMessage-Find 2FA Codes](https://github.com/BalliAsghar/find-2fa-codes) is a [Raycast](https://www.raycast.com/) extension that allows you to find 2FA codes in your IMessage.
 - The [Google Photos](https://github.com/BalliAsghar/google-photos) extension for Raycast enables users to access, view, download, and upload media to their Google Photos account.
 - [KillPort](https://github.com/BalliAsghar/killport) is a command-line tool that allows you to kill a process running on a specified port on your local machine.
-- [ImgUp](https://github.com/BalliAsghar/imgup) is a CLI tool to upload images to imgur, written in go.
 - [partial-clone](https://github.com/BalliAsghar/partial-clone) A Bash script for partial cloning of Git repositories, with user-friendly features.
 - [PlexURLGen](https://github.com/BalliAsghar/PlexURLGen) is a Python script designed to rapidly generate direct links for Plex media.
 
