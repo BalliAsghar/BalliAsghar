@@ -1,7 +1,5 @@
 # Hello, I am Asghar 👋
 
-A Software Developer & Technology enthusiast.
-
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongo,postgres,redis,bash,git,githubactions,docker,kubernetes,aws,heroku,postman,neovim,nginx,python,linux&perline=6)]()
