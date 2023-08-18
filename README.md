@@ -14,12 +14,6 @@
 - [partial-clone](https://github.com/BalliAsghar/partial-clone) A Bash script for partial cloning of Git repositories, with user-friendly features.
 - [PlexURLGen](https://github.com/BalliAsghar/PlexURLGen) is a Python script designed to rapidly generate direct links for Plex media.
 
-## Projects
-
-- [RepairX](https://github.com/balliasghar/RepairX) is an app that helps repair shops manage their repair Jobs. built using NodeJS and ReactJS.
-- [Parkify](https://github.com/balliasghar/Parkify) is social meet-up mobile app with a live chat feature, built using React Native and NodeJS.
-- [GitHub Finder](https://github.com/BalliAsghar/GitHubFinder) is a simple app that allows users to search for GitHub users and view their profile information.
-
 ## My Github Status 🦸
 
 ![](https://github-readme-stats.vercel.app/api?username=BalliAsghar&show_icons=true)
